@@ -9,7 +9,7 @@
     var productDeleteBtn = document.getElementById("product-delete");
     var inputBox = document.getElementById("input-box");
 
-const URL = 'http://3.34.3.177:8080';
+const URL = 'http://13.125.248.56:8080';
 
 axios.defaults.withCredentials = true;
 
